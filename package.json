@@ -1,0 +1,13 @@
+{
+  "name": "yuanbi-gear-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "重庆圆皕齿轮制造有限公司官方网站",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
